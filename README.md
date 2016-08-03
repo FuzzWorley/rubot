@@ -3,7 +3,7 @@ RuBot!<img src="app/assets/images/rubot_profile_pic.png" alt="RuBot logo" width=
 
 An expirement in onboarding for the Udacity Rubyists Slack team! If desired, RuBot can be cloned, customized, and deployed to suit the needs of your Slack team. 
 
-See [RuBot's UI](https://rubot.udacity.com/).
+[Watch a short demo video](https://www.youtube.com/watch?v=4mlgRz-lgVw).
 
 ## What does the bot do?
 
