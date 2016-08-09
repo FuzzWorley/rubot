@@ -191,7 +191,6 @@ class Client < ActiveRecord::Base
     send_scheduled_messages(client)
     update_user(client)
     respond_to_messages(client)
-    # argue_with_slackbot(client)
     restart_client_if_connection_lost(client)
     start_rubot(client)
   end
